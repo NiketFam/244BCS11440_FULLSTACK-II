@@ -1,0 +1,15 @@
+Notes FSD
+
+https://docs.google.com/document/d/1Z1GbJK63BvdM2AtoBMIulz5UJBXlyINfbCSd9LoTbZg/edit?tab=t.0
+
+https://docs.google.com/document/d/1GiJYM5PMv1wDPioo-G3huEw4y-gCUsx5E1RRMpDAr4I/edit?tab=t.0
+
+https://vscode.dev/github/facebook/react/blob/main/packages/react/src/React-Hooks.js
+
+QUESTION:-
+
+https://www.greatfrontend.com/questions/user-interface/todo-list?format=user-interface
+
+
+link:
+https://meet.google.com/zdh-meqs-eur
