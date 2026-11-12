@@ -1,3 +1,0 @@
-I) FS
-II) OS
-III) HTTP
